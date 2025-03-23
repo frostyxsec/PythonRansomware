@@ -28,4 +28,3 @@ This project is shared for educational purposes under an ethical source license.
 ---
 
 **⚠ AGAIN, DO NOT USE THIS FOR MALICIOUS PURPOSES!**
-```
