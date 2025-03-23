@@ -9,3 +9,4 @@ Infected linux with python ransomware
 </br><br>
 <p>Change target_dir with your target dir</p>
 <p>Change password "secretpassword" with your password</p><br><br>
+<h1>ONLY FOR EDUCATIONAL PURPOSE</h1>
