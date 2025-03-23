@@ -1,7 +1,7 @@
 # PythonRansomware
 Infected linux with python ransomware
 <br><br><br>
-<p>Import Lib</p><br>
+<p>Import Lib</p>
 <p>import os</p>
 <p>import random</p>
 <p></p>import hashlib</p>
