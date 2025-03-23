@@ -2,11 +2,11 @@
 Infected linux with python ransomware
 <br><br><br>
 <p>Import Lib</p>
-<p>import os</p>
-<p>import random</p>
-<p></p>import hashlib</p>
-<p>import subprocess</p>
+<il>import os</il>
+<il>import random</il>
+<il></il>import hashlib</il>
+<il>import subprocess</il>
 </br><br>
-<p>Change target_dir with your target dir</p>
-<p>Change password "secretpassword" with your password</p><br><br>
+<il>Change target_dir with your target dir</il>
+<il>Change password "secretpassword" with your password</il><br><br>
 <h1>ONLY FOR EDUCATIONAL PURPOSE</h1>
