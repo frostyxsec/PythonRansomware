@@ -1,4 +1,3 @@
-```markdown
 # PythonRansomware
 
 > **⚠ DISCLAIMER:** This project is for **educational purposes only**. Misuse of this code for malicious activities is strictly prohibited.
