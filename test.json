@@ -1,0 +1,8 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "<script>alert(document.domain)</script>",
+    "version": "1.0.0"
+  },
+  "paths": {}
+}
